@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Harsh1887
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning cs
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me never reach me
+# 👋 Hello! I'm @Harsh1887
 
-<!---
-Harsh1887/Harsh1887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Passionate about blending technology with intelligence — from data to immersive realities.
+
+## 🔍 Areas of Interest
+- 📈 Data Science & Analytics  
+- 🤖 AI & Machine Learning  
+- 💬 Natural Language Processing (NLP)  
+- 🧠 Large Language Models (LLMs)  
+- 🎨 Generative AI & Creative Tech  
+- 🕶️ Augmented & Virtual Reality (AR/VR)
+
+## 🧑‍💻 What I'm Currently Exploring
+- Developing cross-platform apps using **Flutter** and **PHP**
+- Learning through real-world projects and technical certifications
+- Enhancing repositories with clean structure and documentation
+
+## 🌐 Connect With Me
+- 🔗 LinkedIn: [your-friend-link]
+- 📧 Email: [your-friend-email@example.com]
+
+---
+
+> _"The beautiful thing about learning is that nobody can take it away from you." — B.B. King_
